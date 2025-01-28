@@ -15,5 +15,3 @@ Crea en el mismo notebook programa en Python con nombre mi_modulo.py que nos pid
 - 1. [Archivo Jupyter](calculadora.ipynb)
 - 2. [Módulo](mi_modulo.py)
 - 3. [Programa interactivo](programa_interactivo.py)
-- 
-- 
